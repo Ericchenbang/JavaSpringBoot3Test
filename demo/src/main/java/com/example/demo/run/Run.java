@@ -6,6 +6,7 @@ import java.util.Objects;
 
 public class Run {
     private Integer id;
+
     private String title;
     private LocalDateTime startedOn;
     private LocalDateTime completedOn;
